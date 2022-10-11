@@ -1,2 +1,2 @@
 # videotranscription
-Http requestS to api AssemblyAI
+Http requests to api AssemblyAI
